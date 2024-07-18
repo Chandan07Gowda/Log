@@ -12,20 +12,20 @@ First, you will need to start Metro, the JavaScript bundler that ships with Reac
 
 To start Metro, run the following command from the root of your React Native project:
 
-# using npm
+ using npm
 npm start
 
-# OR using Yarn
+ OR using Yarn
 yarn start
-## Step 2:Start your Application
+Step 2:Start your Application
 
 Let Metro Bundler run in its own terminal. Open a new terminal from the root of your React Native project. Run the following command to start your Android or iOS app:
 
 For Android
-# using npm
+ using npm
 npm run android
 
-# OR using Yarn
+OR using Yarn
 yarn android
 
 For iOS
